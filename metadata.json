@@ -1,0 +1,6 @@
+{
+  "name": "WebForge - Web Programming Project Studio",
+  "description": "Interactive Web Programming laboratory, live multi-file code sandbox, syllabus experiments, project architecture showcase, and academic documentation generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
